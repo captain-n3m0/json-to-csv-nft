@@ -1,0 +1,6 @@
+{
+  "name": "NFT Metadata JSON to CSV Converter",
+  "description": "Batch convert and flatten NFT JSON metadata into OpenSea and marketplace compatible CSV with nested trait support and error validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
